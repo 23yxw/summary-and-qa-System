@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "voltaic-psyche-394213",
+  "private_key_id": "aa9b011a5b38c0e2273bcd4d1d83e74924279714",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCou9mGNgG+ckpv\ngSm1UbHdYjfYKjOWznllYnd0Ck3dCmg1n7G5sq3tKBZ54v7LKXOkK+/h6q6RsGd3\nwQJTSfpS6rVzKJs+GKXt8M9FnuDs8aJiIQFazZptmkjOzXoFLGnHeLHH3GYO0jSg\nVM5BKKIV2e4ffUe29Tf+B5PxIqJdUyztZsbvJswI9xb/9gDCn2c+DYmTNrmHuYeg\nFjTEQAWtsHKCUWm7Zw74yACc4bAKWnaxf/WnsjvcBg5mW227tIVo7uoPAK3RFZJT\nfen4TmNzO6JFNAzwN4zvyNbFng8paPTdIR8HuINNyfG+M/UktjDOn2oRyi1PiypS\n9Ju0nk4xAgMBAAECggEAArd3jUd2/WPQr/09OIFMDaZEWOjLs4INMU/bCtVpoy/v\nipbQy+PFFMbq9GPDuhinlyfqm6a60HdYdcn36XMM9+MghcNMcJJWsD81ecemPm+2\nL2ycSCPRozHIj0/T8Zu2nkgNW2GV4RI1rQkrLaBjr69hEUUOml2rXPMunhjH0scl\nJSnOi8clKUKmprcf+TBYnptgj5TIoTFc72KkknteU7hA2/Eyky54vWxcurZEttGt\nEVqHO+WAgRYIid5A1ZMDfwqjpYBX+i2/KKgy9xkHSAbCt41OaG0Qna8nvJy54tch\nkcpHfCII+OeCRaMR3KG5rCOruKBgrQs+4dbvooXqYwKBgQDpoq8gugc+1N1chWoQ\nHd+ZgQPVEIJn1+DaVX3GNX5h3vXFqRRyTPVUggOCIBHANBIjm5f97f9FIXbUskO9\nVlAdU7KJUjth4k4bF3LH5tycfEN07HWqoMIanSw5XEk9E8N+LvBLxlWS5NXQrCt1\nugOt0WHAVf/+5lsFOik5J9BghwKBgQC44rpOw7HIYl1HJbnUV9fo14Y1Bq9A/hd7\nvM7edD6seth1FJWZFU/nDMKY1XLKVOoD0uu/VeLniz2DuaRwGrQWtmFz1FjknQtQ\n9w3FrkwKEzlXXVkFVQun67elMO6jsDqSpAmd0gVinaVwP8OitXuQ+PPHqjdyXMC4\nqtpP4OYhhwKBgHJ7HdcqcHxwL5uzX/pPuQ3tsuQHN+8MUAiMFZo3AhuQ9dsJ85Pi\nc+AZ6QAtGKWWnkDGcB6kLQ5BzImCZED1d0I3jedN3P0kt+L8hWjAjd874I39g9a8\n+P+zfkUJHHYKJiPBekuW/r2A1ehvRMhmAoF8dKqbOVo8o+MW0bZI9QknAoGBAJIn\nqeBaE1C1ccesqxqR1rzao92HS0O1mhrXRzHT8zemZTco7pn1nxSnoa3wDq6kMdqU\nAole++DO0fIv7y4v7e2Gf8NxOlR/UVLP+rMq9jGAwPOvd5AfivdT//k2lXARADys\nMG3yeQ9cUExMG/ukO+p+4zgT94EQkclqRuqef05BAoGADpTaxacqI7O5OijYB3eC\ndPJ4sfV94JAgt0i7jSKhVjbLadrI4culGREnjInSjb1h5NustIW9WXp1vqqCeUFp\n6v7oKb7I21oYl2lZBLgCyyBMTbhxsn+YbWoYWPYYN1POzwBTdhlV4i+R6kZNEUYy\na2DaKnvHa1mNV9ZfiR0wN+k=\n-----END PRIVATE KEY-----\n",
+  "client_email": "id-073@voltaic-psyche-394213.iam.gserviceaccount.com",
+  "client_id": "110418263405224459648",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/id-073%40voltaic-psyche-394213.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
